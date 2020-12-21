@@ -21,6 +21,7 @@
     <!-- List of packages whose icons are used to preview the icon shape for a theme. These are
         typically GMS apps so they should be available in GMS devices. -->
     <array name="icon_shape_preview_packages">
+        <item>com.android.gallery3d</item>
         <item>com.google.android.apps.messaging</item>
         <item>com.google.android.calculator</item>
         <item>com.google.android.contacts</item>
